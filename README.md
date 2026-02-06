@@ -4,12 +4,12 @@
 
 (Spanish) -> Este proyecto usa Machine Learning (modelos XGBoost y Random Forest). El objetivo es predecir la producción de energía solar basándose en datos meteorológicos, datos de irradiancia solar, y la producción solar pasada en este región de Francia.
 
-## DIAPOSITIVAS DEL PROYECTO
+## PROJECT SLIDES
 * [Ver Diapositivas del Proyecto](slides)
 
-## Ejecución
+## Execution
 Puedes ejecutar el modelo directamente en Colab:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](definitive_productions.ipynb)
 
 ## Desafíos Superados
 1. **Data Leakage:** Eliminación de variables futuras para un modelo real "Day-Ahead".
